@@ -1,4 +1,4 @@
-package com.example.mealshowcase.ui.theme
+package com.mealshowcase.ui.theme
 
 import android.app.Activity
 import android.os.Build

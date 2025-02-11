@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.mealshowcase"
+    namespace = "com.mealshowcase"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.mealshowcase"
+        applicationId = "com.mealshowcase"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

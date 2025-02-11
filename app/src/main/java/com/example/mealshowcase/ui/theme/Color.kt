@@ -1,4 +1,4 @@
-package com.example.mealshowcase.ui.theme
+package com.mealshowcase.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
